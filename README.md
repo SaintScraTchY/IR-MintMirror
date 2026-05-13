@@ -7,16 +7,16 @@
 **Automatic Iranian mirror configuration for Linux Mint 22 (Wilma)** – Adds domestic mirrors as fallbacks without removing official repositories. Perfect for Iranian users facing international connection issues.
 
 ## 📋 Table of Contents
-- [Who This Is For](#who-this-is-for)
-- [What This Script Does](#what-this-script-does)
-- [Mirrors Included](#mirrors-included)
-- [Quick Installation](#quick-installation)
-- [Step-by-Step Guide](#step-by-step-guide)
-- [What to Expect](#what-to-expect)
-- [Verification](#verification)
-- [Restore Backup](#restore-backup)
-- [FAQ](#faq)
-- [Share This Project](#share-this-project)
+- [Who This Is For](#-who-this-is-for)
+- [What This Script Does](#-what-this-script-does)
+- [Mirrors Included](#-mirrors-included)
+- [Quick Installation](#-quick-installation)
+- [Step-by-Step Guide](#-step-by-step-guide)
+- [What to Expect](#-what-to-expect)
+- [Verification](#-verification)
+- [Restore Backup](#-restore-backup)
+- [FAQ](#-faq)
+- [Share This Project](#-share-this-project)
 
 ## 🎯 Who This Is For
 
